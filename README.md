@@ -1,4 +1,3 @@
-echo "# rsschool-2019Q1-codeacademy" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
